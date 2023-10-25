@@ -1,0 +1,53 @@
+form{
+    background-color: #eeebeb;
+    text-align: center;
+    width: 70%;
+    height: 90%;
+    border-radius: 5%;
+    border: #ece9e9 20px solid;
+    margin-top: -5%;
+    margin-left: 15%;
+}
+
+.link{
+    text-decoration: none;
+}
+.form-control{
+    margin-bottom: -3%;
+}
+.sthalf, .ndhalf{
+   padding-top: 25%;
+}
+.btn{
+    width: 100%;
+    margin-bottom: 1%;
+}
+.body{
+    background-color: #edeff7;
+}
+.fp{
+    font-size: small;
+}
+#Facebook{
+    font-size: 50px;
+    color: #0093f5;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+#newpage{
+    text-align: center;
+    font-size: small;
+    margin-top: 1%;
+}
+.footer{
+    font-size: small;
+    background-color: #ffffff;
+    text-align: center;
+    padding: 5%;
+    margin-top: 6%;
+}
+#description{
+    font-size: large;
+    color: #000000;
+    margin-top: -5%;
+}

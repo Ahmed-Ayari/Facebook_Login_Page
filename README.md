@@ -5,7 +5,7 @@
 
 
 ## Description
-This project is a replica of the Facebook login page. It is designed to mimic the appearance of the official Facebook login page for educational purposes. Please note that this project is not affiliated with Facebook and is solely intended for learning and practicing web development skills.
+This project is a replica of the Facebook login page. It is designed to mimic the appearance of the official Facebook login page for educational purposes. Please note that this project is not affiliated with Facebook and is solely intended for learning and practising web development skills.
 
 ## Features
 - Login form: Simulates the login form found on the official Facebook login page.
@@ -17,8 +17,7 @@ This project is a replica of the Facebook login page. It is designed to mimic th
 - Bootstrap
 
 ## Screenshots
-![Screenshot 1](link_to_screenshot_1.png)
-![Screenshot 2](link_to_screenshot_2.png)
+![Screenshot 1](https://github.com/Sphynx6/Facebook_Login_Page/blob/main/Facebook_Replica/screenshot.png)
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/Sphynx6/Facebook_Login_Page.git`

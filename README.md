@@ -20,7 +20,7 @@ This project is a replica of the Facebook login page. It is designed to mimic th
 ![Screenshot 1](https://github.com/Sphynx6/Facebook_Login_Page/blob/main/Facebook_Replica/screenshot.png)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/Sphynx6/Facebook_Login_Page.git`
+1. Clone the repository: `git clone https://github.com/Ahmed-Ayari/Facebook_Login_Page.git`
 2. Open the project in your preferred code editor.
 3. Open the `index.html` file in a web browser to view the replica.
 
